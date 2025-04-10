@@ -1,0 +1,7 @@
+**Background**: Heart disease is one of diseases that leads to death. Understanding the influence of various factors on the heart disease could help to detect the disease earlier which could improve patient outcomes. 
+
+**Project Objective**: Develop a machine learning model that can effectively predict the presence or absence of heart disease based on various medical and lifestyle factors. 
+
+**Dataset** from ParkwayPantai
+
+**Expected results**:  feature engineering, visualization, test and check model accuracy. Try different models and techniques to improve the accuracy. Interpret results.
